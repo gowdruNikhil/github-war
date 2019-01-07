@@ -1,0 +1,67 @@
+.winnerBanner {
+    background-color: white;
+    color: black;
+    padding: 10px 55px;
+    font-size: 25px;
+}
+
+.looserBanner {
+    display: none;
+}
+
+.viewProfileNo {
+    display: none;
+}
+
+.winnerStyle{
+    border: 5px solid white;
+    height: 400px;
+    text-align: center;
+    padding-top: 70px;
+    color: white;
+    width: 400px;
+
+
+}
+
+.looserStyle {
+    /* // border: 5px solid white; */
+    height: 400px;
+    text-align: center;
+    padding-top: 110px;
+    color: white;
+    width: 400px;
+
+
+}
+
+.imageStyle {
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: 5px solid white;
+    position: absolute;
+    top: 150px;
+    left: -50px;
+}
+
+.viewProfileBtn {
+    background: transparent;
+    color: white;
+    margin-top: 50px;
+    padding: 10px 40px;
+}
+
+.flexBoxAlign {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
+}
+
+.startAgainBtn {
+    background: white;
+    padding: 10px 65px;
+    border-radius: 5px;
+}
